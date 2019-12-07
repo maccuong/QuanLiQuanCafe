@@ -1,0 +1,13 @@
+D:\Setup Software\QuanLiCafe\QuanLiQuanCafe\QuanLiQuanCafe\bin\Debug\QuanLiQuanCafe.exe.config
+D:\Setup Software\QuanLiCafe\QuanLiQuanCafe\QuanLiQuanCafe\bin\Debug\QuanLiQuanCafe.exe
+D:\Setup Software\QuanLiCafe\QuanLiQuanCafe\QuanLiQuanCafe\bin\Debug\QuanLiQuanCafe.pdb
+D:\Setup Software\QuanLiCafe\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanCafe.csprojResolveAssemblyReference.cache
+D:\Setup Software\QuanLiCafe\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanCafe.fLogin.resources
+D:\Setup Software\QuanLiCafe\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanCafe.Properties.Resources.resources
+D:\Setup Software\QuanLiCafe\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanCafe.csproj.GenerateResource.Cache
+D:\Setup Software\QuanLiCafe\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanCafe.exe
+D:\Setup Software\QuanLiCafe\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanCafe.pdb
+D:\Setup Software\QuanLiCafe\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanCafe.exe.licenses
+D:\Setup Software\QuanLiCafe\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanCafe.TableManager.resources
+D:\Setup Software\QuanLiCafe\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanCafe.ProfileAcount.resources
+D:\Setup Software\QuanLiCafe\QuanLiQuanCafe\QuanLiQuanCafe\obj\Debug\QuanLiQuanCafe.fAdmin1.resources
